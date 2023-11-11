@@ -29,8 +29,8 @@
 </style>
 <body style="background-color:rgb(240, 255, 198);">
 
-    <h1>Colaborador</h1>
-    <label for="search">Nombre de Colaborador o Telefono:</label>
+   <h1>Empleados</h1>
+    <label for="search">Nombre de empleados o número de Telefono:</label>
     <input type="text" id="search" name="search">
     <button onclick="searchPage()">Buscar</button>
     <div style="height:20px"></div>
